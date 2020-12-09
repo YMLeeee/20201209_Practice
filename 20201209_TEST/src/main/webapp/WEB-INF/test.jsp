@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1><a href="/WEB-INF/test.jsp">테스트1</a></h1>
+<h1>확인완료</h1>
 </body>
 </html>
